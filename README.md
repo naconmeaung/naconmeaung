@@ -32,12 +32,24 @@ __Postman__
 __Browser developer tools__
 
 __GitHub__
-
+ 
 __VirtualBox__  
   * able to set up and operate virtual machines
 
-__Microsoft Office | Google Office__
+__Microsoft Office | Google Workspace__
   * for create Test documentation and bug reporting
+
+## Examples of my work 
+
+### Test coverage matrix of Secure login testing 
+
+ - [The training webshop](https://the-internet.herokuapp.com/login) was used to create Test coverage matrix
+   * Test coverage matrix for Secure login testing (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/16ejd-BkjLDTMLz0Hn8Qu3OZ1UIz--itFRjXxrzAFJkE/edit?usp=sharing)
+
+### Test coverage matrix of API Testing 
+
+ - [The training webshop](https://fakestoreapi.com/) was used to create Test coverage matrix
+   * Test coverage matrix for API (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1lYFYSQ-VDR4ukDzcE36MmRyYfYzWY7qxMIVEFzGlO-s/edit?usp=sharing)
 
 
 <!--
