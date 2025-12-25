@@ -1,10 +1,13 @@
-## About me
+# About me
 
 Hi, I'm Nattasit Naconmeaung You can call me Mavin     
 A Software testing enthusiast who understands user perspectives, possesses strong communication and teamwork skills, and is currently developing Software tester skills to better understand business requirements and design test cases that align with organizational goals.
 
+## Resume 
+You can download my Resume (in Thai) as [a PDF from my Google Drive](https://drive.google.com/file/d/1hNon8_-rwU7hFbjfldm7R_g3QDBb8pw9/view?usp=sharing)  
+You can download my Resume (in English) as [a PDF from my Google Drive](https://drive.google.com/file/d/1V6Lkry_X2TFHhSEuayyqcizMNb1x2EiV/view?usp=sharing)
 
-## Skill
+## Skills
 __Manual Testing__  
   * can perform manual functional and usability testing of web applications
   * gained hands-on experience by testing applications created for educational purposes
