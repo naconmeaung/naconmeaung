@@ -61,3 +61,5 @@ __Microsoft Office | Google Workspace__
 
  - [The training webshop](https://the-internet.herokuapp.com/login) was used to create Automate testing
    * Automated testing code and git action. Check [The Github repositorie here](https://github.com/naconmeaung/qa-automation-login-playwright)
+   * Automated Login Testing PoA. Check [Youtube Video Link here](https://youtu.be/64TcQgSzGZI)
+
