@@ -4,8 +4,8 @@ Hi, I'm Nattasit Naconmeaung You can call me Mavin
 A Software testing enthusiast who understands user perspectives, possesses strong communication and teamwork skills, and is currently developing Software tester skills to better understand business requirements and design test cases that align with organizational goals.
 
 ## Resume 
-You can download my Resume (in Thai) as [a PDF from my Google Drive](https://drive.google.com/file/d/1hNon8_-rwU7hFbjfldm7R_g3QDBb8pw9/view?usp=sharing)  
-You can download my Resume (in English) as [a PDF from my Google Drive](https://drive.google.com/file/d/1V6Lkry_X2TFHhSEuayyqcizMNb1x2EiV/view?usp=sharing)
+You can download my Resume (in Thai) as [a PDF from my Google Drive](https://drive.google.com/file/d/1ZylAFwnWhKhVTCo6a0AfBfmE_lOLFigX/view?usp=sharing)  
+You can download my Resume (in English) as [a PDF from my Google Drive](https://drive.google.com/file/d/1OnZ3GW9soa-XTOE1UrI07eO4QvyR2FJi/view?usp=sharing)
 
 ## Skills
 __Manual Testing__  
@@ -31,6 +31,9 @@ __Exploratory testing__
 ## Tools
 __Postman__
   * for APIs Testing
+
+__Playwright__ 
+  * able to Automated testing
     
 __Browser developer tools__
 
@@ -54,18 +57,7 @@ __Microsoft Office | Google Workspace__
  - [The training webshop](https://fakestoreapi.com/) was used to create Test coverage matrix
    * Test coverage matrix for API (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1lYFYSQ-VDR4ukDzcE36MmRyYfYzWY7qxMIVEFzGlO-s/edit?usp=sharing)
 
+### Automated login testing with playwright 
 
-<!--
-**naconmeaung/naconmeaung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - [The training webshop](https://the-internet.herokuapp.com/login) was used to create Automate testing
+   * Automated testing code and git action. Check [The Github repositorie here](https://github.com/naconmeaung/qa-automation-login-playwright)
